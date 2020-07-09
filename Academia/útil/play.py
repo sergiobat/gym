@@ -1,3 +1,5 @@
+//Se este é o ambiente de programação com à I.A da openai.
+// Dar feedback.Caso contrário,mostrar à Prataforma.
 import gym
 import pygame
 import matplotlib
